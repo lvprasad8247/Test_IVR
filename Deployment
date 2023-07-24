@@ -1,0 +1,7 @@
+echo "# Test_IVR" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lvprasad8247/Test_IVR.git
+git push -u origin main
